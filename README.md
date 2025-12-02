@@ -1,6 +1,6 @@
 # lab10web
-# Naufal Rafi Haryanto
-# 312410118
+# Muhammad Hafiyainul Yakin Wahid
+# 312410164
 # TI.24.A1
 
 1. Tujuan Praktikum
